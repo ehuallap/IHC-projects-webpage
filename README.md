@@ -12,8 +12,8 @@ Descripción breve del proyecto.
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-proyecto.git
-   cd nombre-del-proyecto
+   git clone https://github.com/ehuallap/IHC-projects-webpage.git
+   cd IHC-projects-webpage
    ```
 
 2. Instala las dependencias:
